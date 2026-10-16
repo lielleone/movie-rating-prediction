@@ -1,0 +1,7 @@
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+matplotlib==3.10.6
+joblib==1.5.2
+shap==0.52.0
+missingno==0.5.2
