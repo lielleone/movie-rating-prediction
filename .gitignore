@@ -1,0 +1,9 @@
+# data files (not redistributed)
+*.csv
+*.tsv
+*.tsv.gz
+
+# notebook / python artifacts
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
